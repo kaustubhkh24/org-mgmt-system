@@ -45,7 +45,7 @@ Organization
 
 ---
 
-git clone https://kaustubhkh24.github.io/org-mgmt/
+git clone https://kaustubhkh24.github.io/org-mgmt-system/
 cd org-mgmt
 mvn clean install
 
