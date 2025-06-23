@@ -1,6 +1,6 @@
 # 🏢 Organization Management System
 
-A Spring Boot application that manages a hierarchical structure of organizations, sub-organizations, departments, roles, and employees — with validation and safe deletion rules.
+A Spring Boot application that manages a hierarchical structure of organization, sub-organizations, departments, roles, and employees — with validation and safe deletion rules.
 
 ---
 
