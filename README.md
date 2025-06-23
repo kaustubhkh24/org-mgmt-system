@@ -46,10 +46,8 @@ Organization
 ---
 
 git clone https://kaustubhkh24.github.io/org-mgmt-system/
-cd org-mgmt
+cd org-mgmt-system
 mvn clean install
 
 
-spring.datasource.url=jdbc:postgresql://localhost:5432/org_mgmt
-spring.datasource.username=postgres
-spring.datasource.password=Postgres
+
